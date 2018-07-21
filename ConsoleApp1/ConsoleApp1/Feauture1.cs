@@ -8,5 +8,12 @@ namespace ConsoleApp1
 {
     class Feauture1
     {
+        public int Add()
+        {
+
+            int X1 = 1;
+            return X1 + 1;
+
+        }
     }
 }
