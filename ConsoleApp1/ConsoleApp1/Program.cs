@@ -14,6 +14,8 @@ namespace ConsoleApp1
             //Code was added in VS
 
             //Code To call Feauture1
+
+            //Code To call Feauture2
         }
     }
 }
