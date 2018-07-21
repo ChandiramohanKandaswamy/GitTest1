@@ -8,9 +8,10 @@ namespace ConsoleApp1
 {
     class Feauture1
     {
-        public int Add(int x1)
+        public var Add()
         {
 
+            var X1 = 1;
             return X1 + 1;
 
         }
